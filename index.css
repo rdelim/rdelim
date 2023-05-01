@@ -1,22 +1,20 @@
 
-body{
-    margin: 0%;
-    border-right: 50px;
+.container{
 
-
+    display: flex;
+    align-items: center;
 
 }
 
 
-h1 {
-    margin: 100px 0;
-    padding: 1000px;
-    font-family: Impact, 'Arial Narrow Bold', sans-serif;
-    background-color: #2f055a;
+ img{width: 300px; }
+
+img.p{
+    display: inline-block;
 }
 
 section {
-    margin: 730px 21px;
+    margin: 1200px 210px;
 }
 
 .button-as-link {
@@ -28,6 +26,6 @@ section {
 
 .button-as-link {
     display: inline-block;
-    margin: 1, 2em;
+    margin: 1, 4em;
     padding: 0, 7em 1em;
 }

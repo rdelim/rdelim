@@ -1,35 +1,27 @@
+ body {
 
-
-h1{
-    background-image: url(/..img/fundo.png);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center center;
-
-
+    margin-right: 50px;
+    padding: 50px;
+    background-color: #e8ccf0;
+    font-size: 15px;
+    font-family: SEGOE UI;
+    
 }
 
-h2{
-    background-color: black ;
-    font-size: 1.5em;
-    color: azure;
-    padding: 1em;
-    border-radius: 1,5em;
+div p {
+    margin: auto;
+    padding-top: 20px;
+    
 }
+div section button {
+    margin-top: 0;
 
-section {
-    margin: 1200px 210px;
+    background-color: rgb(208, 211, 238);
+     font-size: 20px;
+     font-family: 'Segoe UI';
+     
 }
+img{margin-block: 20px;
+    padding:auto;
 
-.button-as-link {
-    font: inherit;
-    cursor: pointer;
-
-
-}
-
-.button-as-link {
-    display: inline-block;
-    margin: 1, 4em;
-    padding: 0, 7em 1em;
 }

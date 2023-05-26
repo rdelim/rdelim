@@ -1,53 +1,25 @@
- body {
-
-    margin-right: 30px;
-    padding: 30px;
-    background-color: #e8ccf0;
-    font-size: 15px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
- }
-
-div p {
-    text-justify: auto;
-    margin: 20px;
-    padding-top: 20px;
-    
-    
-}
-div section button {
-    margin-top: 0;
-     padding: 80%;
-     content:normal;
-    background-color: rgb(208, 211, 238);
-     font-size: 15px;
-     font-family: "Segoe UI";
-     
-}
-img{margin:auto;
-    width: 15%;
-    display:block
-
-    
-
+body img {
+    margin: 0;
+    height:120px;
+    width: 140px;
 }
 
-.rede ul{
-display: flex;
-list-style: none;
 
+ .div1 {
+    margin-top: auto;
+    padding: 5px;
+    background-color: #6036affb;
+    color: #000000;
+    text-align:justify;
+    justify-content:space-around;
 }
-  
-.rede.ul.li{
+.div1 h1{ 
+    font-family: "Segoe UI";
+    font-size: 20px;
+    color: #ffffff;}
 
-    list-style-type: none;
-    padding-right: 40px;
-
-}
-header{
-    margin: auto;
-    padding: 50px;
-    text-align: center;
-
- 
+.div1 p{ 
+    font-family: "Segoe UI";
+    font-size: 20px;
+    color: #ffffff;
 }
